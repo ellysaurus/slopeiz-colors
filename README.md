@@ -52,7 +52,7 @@ below is some screenshots of konsole.
 # Vim theme
 ```filename from repo```
 below is some screenshots of the vim theme.
-![](https://i.imgur.com/KErXfz4.png)
+![](https://i.imgur.com/33j3ODI.png)
 
 ### Vim airline
 ```filename from repo```
